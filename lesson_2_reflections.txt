@@ -5,3 +5,11 @@ It allows you to create a repository without saving it at first. It gives you co
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is temporary between the unsaved working directory and committing it to the repository. It allows you to review before you submit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Even if you're working on multiple things, you choose which to add to your commit one at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches would be helpful when you are working on more than one feature at a time.
