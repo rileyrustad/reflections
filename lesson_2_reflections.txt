@@ -17,3 +17,7 @@ branches would be helpful when you are working on more than one feature at a tim
 How do the diagrams help you visualize the branch structure?
 
 rather than having to build the image in your head, it gives you sussinct way to look and visualize the work that's been done.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging two branches allows us to look at each line that's been changed, and decide which ones work. The diagram is made that way to help us visualize our path.
